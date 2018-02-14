@@ -1,0 +1,100 @@
+body {
+    padding-top: 50px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.form-control {
+  font-family: "FontAwesome"
+}
+.logo-color{
+	color:#26a69a ;
+}
+.logo-name{
+	font-size:30px; 
+	color:#26a69a;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-width: 100%;
+}
+
+.navbar-custom {
+	background-color: #212121;
+	font-family:"Georgia";
+	font-size: 20px;
+}
+.imag-param{color:#26a69a;}
+.ls-color{
+	color:#26a69a;
+	width:auto;
+}
+
+footer#footer {
+border-top: none;
+background: black;
+}
+.text-div{
+    font-family: "Georgia";
+    font-size: 15px;
+}
+.text-title{
+	font-family: "Georgia";
+	font-weight: 900;
+	font-size: 20px;
+}
+.text-comment{
+	font-style: italic;
+	font-family: "Georgia";
+	font-weight: 900;
+	font-size: 15px;
+}
+.text-department{
+	font-family: "Georgia";
+	font-weight: 900;
+	font-size: 25px;
+}
+.comment{
+	font-family: "Georgia";
+    font-size: 15px;
+}
+.box-text{
+	font-family: "Georgia";
+    font-size: 15px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+.intro-text {
+	position: relative;
+	padding-top: 250px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 170px;
+}
+
