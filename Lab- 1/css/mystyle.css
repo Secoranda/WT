@@ -82,7 +82,28 @@ background: black;
 	width: 100%;
 	height: 600px;
 }
-
+.home_container{
+	padding-top: 50px;
+}
 .slider-pad{
 	padding-top: 50px;
+}
+.filter_style{
+	font-family: "FontAwesome";
+	font-size: 20px;
+	font-weight: 900;
+}
+.menu_color{
+	color: #26a69a;
+}
+.menu_text{
+	font-family:"FontAwesome";
+	font-size: 20px;
+}
+.table-nonfluid {
+   width: 100%;
+}
+.post{
+	font-family:"FontAwesome";
+	font-size: 15px;
 }
